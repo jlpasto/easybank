@@ -1,1 +1,2 @@
 # easybank
+Easybank is a modern, responsive landing page for a digital banking solution. The site highlights key features such as online banking, simple budgeting, fast onboarding, and open API integration. It uses clean layouts, custom styling, and engaging sections like a hero banner, feature grid, and latest articles. The design focuses on usability and clear calls-to-action, showcasing a professional and attractive interface suitable for fintech products. Built with semantic HTML and organized CSS, this project demonstrates my web development and UI/UX skills.
