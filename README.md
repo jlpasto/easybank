@@ -5,6 +5,10 @@
 ## Description
 Easybank is a modern, responsive landing page for a digital banking solution. The site highlights key features such as online banking, simple budgeting, fast onboarding, and open API integration. It uses clean layouts, custom styling, and engaging sections like a hero banner, feature grid, and latest articles. 
 
+![Preview Screenshot](easybank-preview.jpg)
+
+---
+
 ## Technologies Used
 
 - **Semantic HTML**
